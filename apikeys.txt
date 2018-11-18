@@ -1,0 +1,5 @@
+Songkick API key
+Id4d0ysQ6qY9lyuD
+
+Google Calendar API key
+AIzaSyDzsuUhohHq4p7-zE24TzuueqbqpB9MxGE
